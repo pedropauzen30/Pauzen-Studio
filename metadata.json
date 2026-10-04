@@ -1,0 +1,6 @@
+{
+  "name": "Pauzen Studio – Mobile App Development",
+  "description": "Estúdio formal de desenvolvimento de aplicativos móveis para Android e Google Play Store. Portfólio de apps, programa beta e conformidade técnica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
